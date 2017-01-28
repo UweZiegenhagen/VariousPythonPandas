@@ -1,2 +1,2 @@
-# VariousPythonPandas
-Various Python &amp; pandas code I collected over time.
+# Various Python & Pandas
+Various code for Python pandas and other SciPy packages I collected over time.
