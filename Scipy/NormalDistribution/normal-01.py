@@ -5,8 +5,8 @@ Created on Mon Mar 13 21:14:17 2017
 
 Creates a CDF table for the standard normal distribution
 
-add \\usepackage{booktabs} in the preamble and put 
-the generated numbers inside 
+use booktabs package in the preamble and put 
+the generated numbers inside (use only one backslash!)
 
 \\begin{tabular}{r|cccccccccc} \\toprule
 <output here>
